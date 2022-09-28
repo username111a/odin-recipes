@@ -1,8 +1,15 @@
+a:visited{
+    color:rgb(242, 184, 112)
+}
+
 h1{
     text-align: center;
     color: azure;
     background-color: aquamarine;
 }
 
-
-
+.recipe-list{
+    size: 13px;
+    color:bisque;
+    text-decoration-color: bisque;
+}
